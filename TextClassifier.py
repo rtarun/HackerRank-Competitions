@@ -1,3 +1,5 @@
+## Classifying whether a given text snippet is related with Apple (the company) or apple (the fruit)
+
 ##Training Data
 
 apple_computer_train=open('apple-computers.txt','r').readlines()
