@@ -1,2 +1,2 @@
-# HackerRank-Competitions
-Code from Hackerrank challenges and competitions
+# coding-competitions
+Code from various coding challenges
