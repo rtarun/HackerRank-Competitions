@@ -1,2 +1,2 @@
-# coding-competitions
+# coding challenges
 Code from various coding challenges
