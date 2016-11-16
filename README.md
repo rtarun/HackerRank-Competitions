@@ -1,2 +1,2 @@
 # coding challenges
-Code from various coding challenges
+code from project euler, leetcode, and hacker rank
